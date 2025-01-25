@@ -1,0 +1,50 @@
+car wash
+
+landing page 
+nav bar logo about vegere
+
+home(customer)
+	sign in - log in
+	information starting impact
+	
+	sign in 
+		register page
+			name adderess id password mail vehical number mobile number
+			success page registration done 
+				log in url
+	
+	log in 
+		mail-number password
+			display page PROFILE edit vegere
+
+
+
+
+
+
+
+
+
+
+
+
+
+work with us(not devloped)
+	sign in - log in
+	information starting impact
+	
+	sign in 
+		register page
+			name adderess id password mail mobile number
+			success page registration done 
+				log in url
+	log in 
+		mail-number password
+			display page PROFILE edit vegere
+
+
+
+	
+
+		
+ 
